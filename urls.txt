@@ -1,0 +1,11 @@
+# NOTaJury — URLs to scrape.
+# Newline, comma or semicolon separated. Everything after "#" is ignored.
+# Re-running skips URLs already stored as "ok" (use --force to refresh).
+
+https://timesofmalta.com/article/live-blog-yorgen-fenech-trial-enters-day-30.1132286
+https://timesofmalta.com/article/live-yorgen-fenech-testifies-murder-trial-jury-day-46.1133064
+https://timesofmalta.com/article/live-blog-yorgen-fenech-murder-trial-enters-day-45.1133018
+https://timesofmalta.com/article/live-blog-yorgen-fenech-trial-enters-day-44.1132971
+https://timesofmalta.com/article/keith-schembri-never-murder-suspect-fenech-trial-told.1132923
+https://timesofmalta.com/article/inspector-zahra-testifies-trial-yorgen-fenech-day-42.1132884
+https://timesofmalta.com/article/yorgen-fenech-trial-day-38-melvin-theuma-cross-examination.1132670
